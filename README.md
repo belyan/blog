@@ -1,2 +1,2 @@
-# blog
-My articles about front-end development
+# Статьи
+ * [Все способы вертикального выравнивания в CSS](articles/vertical-align.md) 
