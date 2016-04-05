@@ -26,7 +26,7 @@
         <li class="news__list-item">...</li>
         <li class="news__list-item">...</li>
     </ul>
-    <p class="news__more-link"><a href="/news/">Другие новости</a></p>
+    <p class="news__more-link"><a href="...">Другие новости</a></p>
 </div>
 ```
 
@@ -34,7 +34,7 @@
 
 ```css
 .news {
-    padding: 16px 18px;
+    padding: 20px 25px;
 }
 ```
 
@@ -54,11 +54,11 @@
 
 ```css
 .news__title {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .news__more-link {
-    margin-top: 10px;
+    margin-top: 12px;
 }
 ```
 
@@ -66,7 +66,7 @@
 
 ```css
 .news__list {
-    margin: 10px 0 5px 0;
+    margin: 10px 0 12px 0;
 }
 ```
 
@@ -78,7 +78,7 @@
 
 ```css
 .news__list-item {
-    margin-top: 5px;
+    margin-top: 18px;
 }
 
 .news__list-item:first-child {
