@@ -88,17 +88,17 @@
 .message,
 .message-success,
 .message-info {
-  padding: 15px;
-  border: 1px solid transparent;
-  border-radius: 4px;
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
 }
 
 .message-success {
-  background-color: #dff0d8;
+    background-color: #dff0d8;
 }
 
 .message-info {
-  background-color: #d9edf7;
+    background-color: #d9edf7;
 }
 ```
 
@@ -120,12 +120,14 @@
 **CSS**
 ```css
 .button {
-  box-shadow: inset 0 0 10px #555;
+    box-shadow: inset 0 0 10px #555;
 }
 
 .button:hover {
-  box-shadow: inset 0 0 10px #555, 0 0 20px #000;
+    box-shadow: inset 0 0 10px #555, 0 0 20px #000;
 }
 ```
 
-Если вы знаете другие редко используемые возможности LESS, то просьба поделиться ими в комментариях. Спасибо за внимание.
+Если вы знаете другие редко используемые возможности LESS, то просьба поделиться ими в комментариях.
+
+Спасибо за внимание.
